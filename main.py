@@ -10,4 +10,5 @@ def run_alert():
     else:
         print("No strong trades found.")
 
+if __name__ == "__main__":
     run_alert()
