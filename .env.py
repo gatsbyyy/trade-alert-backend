@@ -1,0 +1,2 @@
+FINNHUB_API_KEY=your_finnhub_key_here
+FIREBASE_SERVER_KEY=your_firebase_key_here
